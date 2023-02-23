@@ -5,7 +5,7 @@
     "name": "Old Wikipedia",
     "short_name": "OldWiki",
     "description":  "Changes the Wikipedia user interface to the beautiful old vector layout.",
-    "version": "1.01",
+    "version": "1",
 
     "icons": {
         "48": "images/icon-48.png",
@@ -33,11 +33,12 @@
             "38": "images/toolbar-icon-38.png",
             "48": "images/toolbar-icon-48.png",
             "72": "images/toolbar-icon-72.png"
-        },
+        }
     },
+    
     "author": "Ben Lucas",
 
 
     "host_permissions": [ "*://*.wikipedia.org/*", "*://*.wiktionary.org/*", "*://*.wikiquote.org/*", "*://*.wikibooks.org/*", "*://*.wikisource.org/*", "*://species.wikimedia.org/*", "*://*.wikinews.org/*", "*://*.wikiversity.org/*", "*://*.wikivoyage.org/*", "*://commons.wikimedia.org/*", "*://*.wikidata.org/*", "*://*.mediawiki.org/*", "*://meta.wikimedia.org/*", "*://incubator.wikimedia.org/*", "*://wikitech.wikimedia.org/*" ],
-    "permissions": [ "storage", "declarativeNetRequest" ],
+    "permissions": [ "storage", "declarativeNetRequest" ]
 }
