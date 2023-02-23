@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Old Wikipedia Extension",
+        "description": "Converts Wikipedia to the pre-2023 layout."
+    },
+    "extension_description": {
+        "message": "This is Old Wikipedia Extension. It converts Wikipedia pages back to the pre-2023 redesign page layout",
+        "description": "Converts Wikipedia to the pre-2023 format."
+    }
+}
