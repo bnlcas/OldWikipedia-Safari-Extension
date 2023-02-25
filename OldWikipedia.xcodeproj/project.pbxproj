@@ -508,7 +508,7 @@
 				DEVELOPMENT_TEAM = LXCR5YEKL9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = OldWikipedia;
+				INFOPLIST_KEY_CFBundleDisplayName = "Old Layout for Wikipedia";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
@@ -546,7 +546,7 @@
 				DEVELOPMENT_TEAM = LXCR5YEKL9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = OldWikipedia;
+				INFOPLIST_KEY_CFBundleDisplayName = "Old Layout for Wikipedia";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;

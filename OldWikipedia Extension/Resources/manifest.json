@@ -2,9 +2,9 @@
     "manifest_version": 3,
     "default_locale": "en",
 
-    "name": "Old Wikipedia",
+    "name": "Old Layout for Wikipedia",
     "short_name": "OldWiki",
-    "description":  "Changes the Wikipedia user interface to the beautiful old vector layout.",
+    "description":  "Redirects Wikipedia pages to the old vector layout.",
     "version": "1",
 
     "icons": {
@@ -20,7 +20,7 @@
     },
 
     "content_scripts": [{
-        "js": [ "content.js" ],
+        "js": [ "content.js", "popup.js" ],
         "matches": [ "*://*.wikipedia.org/*" ]
     }],
 
